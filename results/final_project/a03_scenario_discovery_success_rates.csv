@@ -1,0 +1,7 @@
+policy,policy_label,threshold,success_definition,success_rate,n_success,n_total
+low_abatement,Low abatement,1.5 degC,zero years above threshold,0.0,0,200
+low_abatement,Low abatement,2 degC,zero years above threshold,0.015,3,200
+medium_abatement,Medium abatement,1.5 degC,zero years above threshold,0.0,0,200
+medium_abatement,Medium abatement,2 degC,zero years above threshold,0.05,10,200
+high_abatement,High abatement,1.5 degC,zero years above threshold,0.01,2,200
+high_abatement,High abatement,2 degC,zero years above threshold,0.125,25,200
